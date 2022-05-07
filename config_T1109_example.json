@@ -1,0 +1,10 @@
+{
+    "inference_dir": "/mnt/vepfs/casp15/casp15_inference/T1109",
+    "gromacs":{
+        "cluster_cutoff": "0.15",
+        "cluster_method": "gromos",
+        "cluster_group" : "protein-h",
+        "clean": true
+    },
+    "comment.0": "Units for kapps is kJ/(mol*A^2)",
+}
